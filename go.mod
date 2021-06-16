@@ -3,8 +3,7 @@ module github.com/gopasspw/gopass
 go 1.12
 
 require (
-	filippo.io/age v1.0.0-beta7
-	filippo.io/edwards25519 v1.0.0-beta.2 // indirect
+	filippo.io/age v1.0.0-rc.3
 	github.com/atotto/clipboard v0.1.2
 	github.com/blang/semver/v4 v4.0.0
 	github.com/caspr-io/yamlpath v0.0.0-20200722075116-502e8d113a9b
@@ -13,6 +12,7 @@ require (
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 	github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
+	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/color v1.10.0
 	github.com/godbus/dbus v0.0.0-20190623212516-8a1682060722
 	github.com/gokyle/twofactor v1.0.1
